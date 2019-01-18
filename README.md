@@ -19,3 +19,5 @@ Insights from this approach : Allrounders were identified from players who were 
 Just run the whole code and finally take a look at the dataset df_ipl_mvpi...
 
 This is an intial approach to find the best players. Other inputs from the given datasets can be used to find underlying factors affecting a players value which can be crucial to match wins..
+
+Contributors : Rohan Isaac, Sai Dinesh Puppala, Shubham Bansla.
